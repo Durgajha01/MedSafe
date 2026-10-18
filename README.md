@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v
 
 ## Built with v0
 
+<img width="800" height="589" alt="MediSafe image 2" src="https://github.com/user-attachments/assets/c08457b2-9fc6-4038-9711-bab408d09d49" />
+<img width="1280" height="618" alt="MediSafe image 3" src="https://github.com/user-attachments/assets/4685cf80-1a3a-4843-b54d-a4c75a654688" />
+<img width="1280" height="618" alt="MediSafe image 1" src="https://github.com/user-attachments/assets/4067add3-d03f-4a55-ab2f-f1a36219128e" />
+
 This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
 
 [Continue working on v0 →](https://v0.app/chat/projects/prj_Cc88UxAVD2TtkTlnO2QDoIMoqdPo)
